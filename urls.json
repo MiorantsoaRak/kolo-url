@@ -1,4 +1,6 @@
 {
-    "radio": "http://162.244.80.52:4110/stream.mp3",
-    "tv": "http://176.223.135.69:8081/live/kolotv/playlist.m3u8"
+    "urls": {
+        "radio": "http://162.244.80.52:4110/stream.mp3",
+        "tv": "http://176.223.135.69:8081/live/kolotv/playlist.m3u8"
+    }
 }
